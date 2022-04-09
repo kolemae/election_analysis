@@ -1,4 +1,4 @@
-# Election Analysis
+# Colorado Election Audit
 Used Python to perform an election audit using a CSV file of election data.
 
 ## Table of contents
